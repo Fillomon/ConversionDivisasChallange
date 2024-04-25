@@ -1,4 +1,5 @@
-Challange Convertidor de Divisas
+<em> #Challange Convertidor de Divisas </em>
+
 ![Badge-Conversor](https://github.com/Fillomon/ConversionDivisasChallange/assets/102466555/1f22ae73-8a90-4427-8a8a-368f7829d280)
 
 Modo de uso:
@@ -10,4 +11,6 @@ Modo de uso:
 Nota: Cuando escojes la opcion 7 tienes que ingresar las letras en mayusculas, de lo contrario esto podria fallar.
 
 Autor: Arnulfo Aranda Castro.
+
+G6 Alura Latam - NextOne - Oracle 2024
 
